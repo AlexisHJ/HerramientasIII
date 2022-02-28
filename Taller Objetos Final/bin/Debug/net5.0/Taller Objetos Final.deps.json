@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Taller Objetos Final/1.0.0": {
+        "runtime": {
+          "Taller Objetos Final.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Taller Objetos Final/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
